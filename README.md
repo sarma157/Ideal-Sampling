@@ -73,11 +73,9 @@ plt.grid()
 plt.tight_layout()
 plt.show()
 ```
-# Output Waveform
-```
-<img width="1020" height="672" alt="image" src="https://github.com/user-attachments/assets/8a5da27e-5c1a-43bc-acf4-667921a0f837" />
+#output waveform
+<img width="1020" height="672" alt="image" src="https://github.com/user-attachments/assets/36190e7e-3917-4691-abf4-fe449db1310a" />
 
-```
 # Results
 ```
 Attach the output waveform
