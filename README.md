@@ -75,7 +75,7 @@ plt.show()
 ```
 # Output Waveform
 ```
-<img width="1020" height="672" alt="image" src="https://github.com/user-attachments/assets/c37db69b-a180-47c5-aae5-8fd0a7059c73" />
+<img width="1020" height="672" alt="image" src="https://github.com/user-attachments/assets/8a5da27e-5c1a-43bc-acf4-667921a0f837" />
 
 ```
 # Results
