@@ -180,3 +180,5 @@ natural sampling
 <img width="915" height="827" alt="image" src="https://github.com/user-attachments/assets/92269cac-6c74-401a-b025-ee513305442d" />
 Flst-top sampling
 <img width="1312" height="870" alt="image" src="https://github.com/user-attachments/assets/aaecbd7e-4f3c-4af6-8018-8d66ba9f26b5" />
+Results
+Thus, the construction and reconstruction of Ideal, Natural, and Flat-top sampling were successfully implemented using Python, and the corresponding waveforms were obtained.
